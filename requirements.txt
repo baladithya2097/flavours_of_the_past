@@ -2,3 +2,4 @@ pandas
 streamlit
 google-genai
 st-supabase-connection
+streamlit-mic-recorder
